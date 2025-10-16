@@ -1,14 +1,19 @@
-cliente
+---cliente---
 
-crear ven con requirements
+-crear venv con requirements
+
 ./setup_env.sh
 
-activarlo
+-activar el venv
+
 source venv/bin/activate
 
-ejecutar cliente
+-ejecutar cliente
+
 python3 clientePersonas.py o python clientePersonas.py
 
-servidor
-ejecutar servidor
+---servidor---
+
+-ejecutar servidor
+
 ./run_server.sh
