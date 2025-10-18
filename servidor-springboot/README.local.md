@@ -7,7 +7,7 @@ Configuración por defecto en `application.properties`:
 - Usuario: postgres
 - Contraseña: postgres
 
-Nota: según tu comentario, la base `db_globalex` ya existe. No es necesario crearla. Asegúrate solo de que los valores en `application.properties` (URL, usuario y contraseña) coinciden con tu instalación local.
+Verificar que los valores en `application.properties` (URL, usuario y contraseña) coinciden con tu instalación local.
 
 Para comprobar que la aplicación puede conectarse a la base existente puedes ejecutar:
 
